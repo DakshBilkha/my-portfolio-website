@@ -361,7 +361,7 @@ Place this block before the
 .about,
 .education-section,
 .projects-section {
-    background-image: url('unsplash_FwcMuEow3O0.png');
+    background-image: url('unsplash-FwcMuEow3O0.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -832,4 +832,5 @@ Place this block before the
 .fade-in-element.is-visible {
     opacity: 1;
     transform: translateY(0);
+
 }
